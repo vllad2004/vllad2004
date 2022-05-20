@@ -1,0 +1,865 @@
+/* Hi, I am Kartik Bansal 👋 */body{
+position: relative;
+width: 1440px;
+height: 4809px;
+
+background: #212529;
+}
+
+footer{
+position: absolute;
+width: 1440px;
+height: 470px;
+left: 0px;
+top: 4339px;
+}
+
+input[type=email] {
+position: absolute;
+bottom: 0.25px;
+width: 310px;
+height: 63px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15.8118px;
+line-height: 23px;
+color: #7C7C7C;
+background: #212529;
+border-radius: 49px;
+}
+
+.omega{
+/* omega */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 6px 25px;
+gap: 10px;
+
+position: absolute;
+width: 192px;
+height: 42px;
+left: 106px;
+
+background: rgba(255, 255, 255, 0.08);
+border-radius: 50px;
+}
+
+.gryp7{
+/* Gryp 7 */
+
+
+position: absolute;
+width: 416px;
+height: 120px;
+
+filter: drop-shadow(10px 10px 51px rgba(0, 0, 0, 0.25));
+background: rgba(56, 62, 69, 0.44);
+border-radius: 10px;
+}
+
+.gryp9{
+/* Group 9 */
+position: absolute;
+width: 416px;
+height: 120px;
+left: 440px;
+
+background: rgba(56, 62, 69, 0.44);
+border-radius: 10px;
+}
+
+.gryp10{
+/* Group 10 */
+
+
+position: absolute;
+width: 416px;
+height: 120px;
+left: 880px;
+
+background: rgba(56, 62, 69, 0.44);
+border-radius: 10px;
+}
+
+.gryp13{
+/* Group 13 */
+
+
+position: absolute;
+width: 682px;
+height: 396.63px;
+left: 660px;
+top: 85.4px;
+}
+
+.group32{
+position: absolute;
+width: 1116px;
+height: 174px;
+left: 162px;
+right: 162px;
+top: -89px;
+bottom: 385px;
+
+background: #FFB742;
+border-radius: 15px;
+}
+
+.gryp58{
+/* Group 36658 */
+
+
+position: absolute;
+width: 424px;
+height: 691px;
+left: 416px;
+}
+
+.gryp60{
+/* Group 36660 */
+
+
+position: absolute;
+width: 378.91px;
+height: 443.55px;
+top: 182px;
+
+background: #FFFFFF;
+border-radius: 7.92699px;
+}
+
+.gryp61{
+/* Gryp 61 */
+
+
+position: absolute;
+width: 378.91px;
+height: 443.55px;
+left: 419px;
+top: 182px;
+
+background: #FFFFFF;
+border-radius: 7.92699px;
+}
+
+.gryp62{
+/* Group 36662 */
+
+
+position: absolute;
+width: 378.91px;
+height: 443.55px;
+left: 838px;
+top: 182px;
+
+background: #FFFFFF;
+border-radius: 7.92699px;
+}
+
+.gryp64{
+position: absolute;
+width: 139.33px;
+height: 228.78px;
+left: 431.85px;
+top: 148px;
+}
+
+.gryp64{
+/* Gryp 64 */
+
+
+position: absolute;
+width: 1339px;
+height: 358.29px;
+left: 50px;
+top: 1775px;
+}
+
+.gryp65{
+position: absolute;
+width: 143.46px;
+height: 232.57px;
+left: 772.54px;
+top: 148px;
+}
+
+.group_36665{
+/* Group 36665 */
+
+
+position: absolute;
+width: 1234px;
+height: 1037.5px;
+left: 103px;
+top: 2270px;
+}
+
+.group_36666{
+/* Group 36666 */
+
+
+position: absolute;
+width: 1216.91px;
+height: 691px;
+left: 112px;
+top: 3444px;
+
+}
+
+.gryp66{
+position: absolute;
+width: 253.16px;
+height: 129.62px;
+left: 50px;
+top: 148px;
+}
+
+.gryp67{
+position: absolute;
+width: 310px;
+height: 63.25px;
+top: 145px;
+right: 9px;
+bottom: 0.25px;
+}
+
+.gryp68{
+position: absolute;
+width: 319px;
+height: 114px;
+}
+
+.group36669{
+position: absolute;
+width: 319px;
+height: 208.25px;
+top: 144px;
+left: 1073px;
+bottom: 117.75px;
+right: 48px;
+}
+
+.subtitre{
+position: absolute;
+left: 417px;
+right: 340px;
+bottom: 57px;
+top: 57px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+
+text-align: center;
+
+color: #000000;
+}
+
+.tittle{
+position: absolute;
+left: 94px;
+right: 775px;
+bottom: 64px;
+top: 57px;
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 34.6667px;
+line-height: 53px;
+
+color: #000000;
+}
+
+.Newsletter{
+position: absolute;
+margin-top: 0px;
+margin-bottom: 0px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 21.5865px;
+line-height: 32px;
+/* or 148% */
+
+color: #F5FBF2;
+}
+
+.enter{
+position: absolute;
+top: 8.34px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 17.9888px;
+line-height: 36px;
+/* or 202% */
+
+
+color: #7B7B7B;
+}
+
+.btn{
+box-sizing: border-box;
+
+/* Auto layout */
+
+position: absolute;
+width: 177px;
+height: 54px;
+left: 845px;
+top: 60px;
+right: 94px;
+bottom: 60px;
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 40px;
+gap: 10px;
+
+border: 2px solid #000000;
+border-radius: 50px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 30px;
+text-decoration: none;
+/* identical to box height, or 167% */
+
+text-align: center;
+
+color: #212529;
+}
+
+.button{
+position: absolute;
+left: 245px;
+right: 9.25px;
+
+bottom: 0px;
+}
+
+.rectangle20{
+width: 64.75px;
+height: 63.25px;
+    
+background: #FFB742;
+border-radius: 48px;
+}
+
+.KB{
+/* Kartik Bansal. */
+    
+    
+position: absolute;
+    
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 100%;
+/* or 32px */
+margin-top: 0px;
+    
+color: #FFB742;
+}
+
+.CD{
+/* Creative designer & front-end developer */
+position: absolute;
+top: 63.28px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 32px;
+/* or 202% */
+
+
+color: #D4D4D4;
+}
+
+.Social_Media{
+/* Instagram linkedin Dribbble Behance Github */
+
+
+position: absolute;
+top: 49.57px;
+right: 49.58px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 17.9888px;
+line-height: 36px;
+text-decoration: none;
+/* or 202% */
+
+
+color: #7B7B7B;
+
+}
+
+.SM{
+    /* Social Media */
+
+
+position: absolute;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 21.5865px;
+line-height: 32px;
+/* or 148% */
+
+
+color: #F5FBF2;
+
+}
+
+.Useful_Links{
+    /* Home About Skills Portfolio Contact */
+
+position: absolute;
+top: 45.79px;
+right: 59.16px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 17.9888px;
+line-height: 36px;
+/* or 202% */
+
+
+color: #7B7B7B;
+
+}
+
+.rectangle18{
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #1C1C1C;
+}
+
+.UL{
+    /* Useful Links */
+
+
+position: absolute;
+bottom: 169.13px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 21.5865px;
+line-height: 32px;
+/* or 148% */
+
+color: #F5FBF2;
+}
+
+.lip{
+position: absolute;
+left: 33px;
+right: 51.91px;
+top: 84px;
+bottom: 155.55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 34px;
+/* or 170% */
+
+
+color: #000000;
+
+}
+
+.Designer{
+position: absolute;
+left: 128px;
+right: 161.91px;
+top: 355px;
+bottom: 54.55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 34px;
+/* identical to box height, or 212% */
+
+
+color: #000000;
+}
+
+.KG{
+/* Khushi Gupta */
+
+
+position: absolute;
+left: 128px;
+right: 110.91px;
+top: 326px;
+bottom: 83.55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 34px;
+/* identical to box height, or 170% */
+
+
+color: #000000;
+}
+
+.testimonials{
+/* Testimonials */
+
+
+position: absolute;
+width: 424px;
+height: 642px;
+top: 49px;
+}
+
+.line4{
+/* Line 4 */
+
+
+position: absolute;
+width: 20px;
+height: 0px;
+left: 221px;
+top: 645px;
+
+border: 10px solid #BB842C;
+}
+
+.line3{
+/* Line 3 */
+
+
+position: absolute;
+width: 49px;
+height: 0px;
+right: 210px;
+left: 165px;
+top: 645px;
+
+border: 10px solid #FFB742;
+}
+
+.WCS{
+/* What customer says */
+
+
+position: absolute;
+bottom: px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 39.2896px;
+line-height: 46px;
+text-align: center;
+text-transform: capitalize;
+
+color: #FFFFFF;
+}
+
+.t{
+/* testimonials */
+
+
+width: 142px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+
+text-transform: uppercase;
+
+color: #FFB742;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.FeW{
+/* Featured Works */
+
+
+position: absolute;
+left: 447px;
+right: 448px;
+top: 42px;
+bottom: 939.5px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 56px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.Skills{
+/* Skills */
+
+
+position: absolute;
+width: 1337px;
+height: 315.8px;
+left: 2px;
+top: 42.49px;
+}
+
+.WMP{
+/* What My Programming Skills Included? */
+
+
+position: absolute;
+left: 8px;
+right: 811px;
+bottom: 205.71px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 56px;
+
+color: #FFFFFF;
+
+}
+
+.IDEV{
+/* I develop simple, intuitive and responsive user interface that helps users get things done with less effort and time with those technologies. */
+
+
+position: absolute;
+left: 8px;
+right: 657px;
+top: 139.58px;
+bottom: 117.25px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* or 188% */
+
+
+color: #FFFFFF;
+}
+
+.About_Me{
+/* About Me */
+
+
+position: absolute;
+width: 1342px;
+height: 596.07px;
+left: 47px;
+top: 1042px;
+}
+
+.IKBT{
+position: absolute;
+left: 10px;
+top: 111.25px;
+bottom: 108.45px;
+    
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* or 188% */
+    
+    
+color: #D5D5D5;
+    
+}
+
+.ABME{
+/* About Me */
+
+
+position: absolute;
+left: 10.15px;
+top: 52.27px;
+bottom: 314.87px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 30px;
+/* identical to box height, or 62% */
+
+
+color: #FFFFFF;
+}
+
+.Hero{
+/* Hero */
+
+
+position: absolute;
+width: 964px;
+height: 458.73px;
+left: 238px;
+top: 191px;
+}
+
+.idac{
+/* I design and code beautifully simple things, and I love what I do. */
+
+
+position: absolute;
+width: 759px;
+height: 51px;
+left: 103px;
+top: 163px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 51px;
+/* identical to box height, or 211% */
+
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+}
+
+.hp{
+/* Hi, I am Kartik Bansal 👋 */
+
+
+position: absolute;
+width: 372px;
+height: 51px;
+left: 297px;
+right: 295px;
+bottom: 407.73px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 51px;
+/* identical to box height, or 159% */
+
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+
+color: #FFFFFF;
+}
+
+.CDF{
+/* Creative designer & front-end developer */
+
+
+position: absolute;
+width: 964px;
+height: 91px;
+bottom: 320.73px;
+top: 47px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 91px;
+/* identical to box height, or 189% */
+
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+}
+
+.Meter{
+/* Meter */
+
+
+position: absolute;
+width: 1296px;
+height: 120px;
+left: 72px;
+top: 786px;
+}
+
+.happypeople{
+position: absolute;
+width: 159px;
+height: 70px;
+left: 150px;
+right: 107px;
+bottom: 25px;
+top: 25px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 40px;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+
+color: #FFB742;
+
+}
+.nacalo{
+    
+}
